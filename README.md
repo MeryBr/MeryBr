@@ -1,16 +1,41 @@
-## Hi there 👋
+## ¡Hola! Soy María Bratash 👋
 
-<!--
-**MeryBr/MeryBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora frontend con alma de diseñadora 🎨  
+Apasionada por crear interfaces limpias, intuitivas y con cariño.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Un poco sobre mí:
+
+Actualmente trabajo en España y sigo formándome en el mundo del desarrollo web.  
+Vengo del mundo del diseño UX/UI, así que me gusta cuidar los detalles y pensar en la experiencia de usuario desde el principio.  
+Soy curiosa, constante y me encanta aprender cosas nuevas todos los días.
+
+---
+
+### 🧰 Tecnologías que manejo:
+
+- HTML / CSS / JavaScript  
+- Git y GitHub  
+- Figma y herramientas de diseño  
+- Un poco de React (¡estoy aprendiendo!)  
+- VS Code como editor favorito
+
+---
+
+### 🎯 Objetivos actuales:
+
+- Mejorar mis habilidades con React  
+- Aprender más sobre automatización con GitHub Actions  
+- Colaborar en proyectos reales y seguir creciendo como profesional
+
+---
+
+### 📬 Contacto:
+
+Puedes encontrarme por aquí:  
+[LinkedIn - María Bratash](https://www.linkedin.com/in/bratash-maria/)
+
+---
+
+Gracias por pasarte por mi perfil 🤍  
