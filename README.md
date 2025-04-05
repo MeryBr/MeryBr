@@ -1,4 +1,4 @@
-## ¡Hola! Soy María Bratash 👋
+## ¡Hola! Soy María 👋
 
 Desarrolladora frontend con alma de diseñadora 🎨  
 Apasionada por crear interfaces limpias, intuitivas y con cariño.
