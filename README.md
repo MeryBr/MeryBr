@@ -8,7 +8,7 @@ Now I do the same — but with code.
 
 ## What drives me?
 
-- **User experience**: everything should be clear, beautiful, and easy to use.  
+- **User experience**: everything should be intuitive, visually appealing, and easy to use.  
 - **Details matter**: if something’s off — visually, functionally, technically — I catch it.  
 - **Quality first**: I don’t let things slide. If it can be improved, I improve it.  
 - **Purpose-driven work**: I’m not here to “just build” — I’m here to make things **make sense**.
@@ -17,9 +17,9 @@ Now I do the same — but with code.
 
 ## What will you find on my GitHub?
 
-- Real projects where I learn, test, and refactor without fear.  
-- Clean, functional code with intention behind it.  
-- A constant focus on making the user say: *"This feels great to use."*
+- Personal projects where I experiment, build, and refine with intention.  
+- Clean, functional code designed with the user in mind.  
+- Always aiming for that one feedback: *“This feels great to use.”*
 
 ---
 
@@ -28,14 +28,14 @@ Now I do the same — but with code.
 
 ---
 
-> *I’m a perfectionist — but only where it matters:
+> *I’m a perfectionist — but only where it matters:  
 > in the details others overlook, where real UX lives and users feel the difference.*
 
 ---
 
 ## 🛠️ Tech Stack  
-**My world: tools I'm learning, growing with, and occasionally breaking (just to fix them better).**  
-*I'm not an expert yet, but every day I get more confident with them.*
+**Currently training and growing with these tools — one bug, one feature, and one “aha!” moment at a time.**  
+*From layouts to logic, I'm learning to build things that work well, look polished, and feel right to use.*
 
 <div align="center">
 
@@ -53,9 +53,23 @@ Now I do the same — but with code.
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
 </div>
 
+---
+
+## 📚 Currently learning
+
+I'm enrolled in an intensive 11-month **Frontend Master at Lemoncode**, focused on real-world development with:
+
+- **React, TypeScript, Angular, Vue, Svelte**  
+- **Figma, CSS animations, responsive layout**  
+- **Unit testing (Jest, Vitest), CI/CD, Docker**  
+- **REST APIs, GraphQL, OAuth2, Socket.io**  
+- **Cloud deployment (Azure, AWS, Render)**
+
+Built around agile methodology, frequent code reviews, and Git-based collaboration.  
+Because theory is nice — but practice is what makes it stick.
