@@ -1,42 +1,61 @@
-# Hi there! I’m **María** 👋
+# Hi! I'm María 👋
 
-*Even if my résumé doesn’t scream “Designer by birth,” trust me—my radar for awful user experiences is always on.*
+I'm a web developer with a sharp eye for detail and a healthy obsession with user experience.  
+Before writing code, I spent years helping people and solving real-life problems.  
+Now I do the same — but with code.
 
 ---
 
-## Who am I?
-- A web developer currently working in **Spain**, sharpening my skill set every single day.  
-- A professional with an unconventional background that taught me how to adapt fast, understand even faster, and deliver meaningful results.  
-- Yes, I come from the **UX/UI** world, but if you look at my CV you might say, “Really? Where does it say so?” Well, right here, in my README.
+## What drives me?
 
-## Why do I focus on user experience?
-Because there’s nothing worse than software seemingly built to make us suffer. From the very first sketch, I think about how people will *actually* use the application. If the final result doesn’t make you feel at home, something went wrong.
+- **User experience**: everything should be clear, beautiful, and easy to use.  
+- **Details matter**: if something’s off — visually, functionally, technically — I catch it.  
+- **Quality first**: I don’t let things slide. If it can be improved, I improve it.  
+- **Purpose-driven work**: I’m not here to “just build” — I’m here to make things **make sense**.
 
-## How do I work?
-1. **Maximum Curiosity** – I question everything. Even the recipe for a proper Spanish tortilla (though tradition often hides wisdom).  
-2. **Consistency & Continuous Learning** – Every project is a chance to explore something new. My motto:  
-   *“Today I know more than yesterday, and tomorrow more than today (unless memes distract me).”*  
-3. **Details, Details, Details** – It may not appear in bold neon letters on my CV, but a passion for good design and clean development runs through my veins.
-
-## A touch of humor (because code without humor is boring)
-> *I’m one of those people who, when discovering something is possible, jumps in without a parachute. I ask, investigate, break, fix… then break again (just to be sure).*  
-
-*(And yes, I’m a **woman**—got to say it loud & proud.)*
+---
 
 ## What will you find on my GitHub?
-- Projects that help me learn something new (and occasionally unlearn the obsolete).  
-- Crazy ideas tested with **TypeScript, React, .NET, SQL**—any tech that catches my eye. *(Work in progress!)*  
-- A constant effort to implement best practices and keep the code clean, even if my first drafts look like beautiful chaos.
 
-## Why should you care?
-Because I bet on **logic, clarity,** and the *practical* use of technology. I’m not interested in “doing more and more”; I prefer **doing it better**. And yes, I love taking user experience to a level that leaves no one itching to throw their keyboard out the window.
+- Real projects where I learn, test, and refactor without fear.  
+- Clean, functional code with intention behind it.  
+- A constant focus on making the user say: *"This feels great to use."*
 
 ---
 
-> **Thanks for stopping by my profile** 🤍  
-> 🔗 [LinkedIn – María Bratash](https://www.linkedin.com/in/bratash-maria/)
-
-If you’ve made it this far, something must have sparked your curiosity.  
-Dive into my repos, and if you feel like it—**let’s talk!**
+🔗 [LinkedIn – María Bratash](https://www.linkedin.com/in/bratash-maria/)  
+🤍 Thanks for stopping by. If something catches your eye, let’s talk.
 
 ---
+
+> *I’m a perfectionist — but only where it matters:
+> in the details others overlook, where real UX lives and users feel the difference.*
+
+---
+
+## 🛠️ Tech Stack  
+**My world: tools I'm learning, growing with, and occasionally breaking (just to fix them better).**  
+*I'm not an expert yet, but every day I get more confident with them.*
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+
+</div>
+
