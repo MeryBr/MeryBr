@@ -1,37 +1,42 @@
-## ¡Hola! Soy María 👋
+# Hi there! I’m **María** 👋
 
-_Aunque mi CV no lleve el cartel de “Diseñadora de nacimiento”, créeme, mi radar para malas experiencias de usuario está siempre encendido._
-
-## ¿Quién soy?
-- Desarrolladora web que actualmente trabaja en España, perfeccionando mi arsenal de habilidades cada día.
-- Con un background profesional poco ortodoxo que me ha enseñado a adaptarme, comprender rápido y entregar resultados con sentido.
-- Sí, vengo del mundo UX/UI, pero si te guías por mi currículum dirás: “¿Ah, sí? ¿Dónde lo pone?” Pues aquí, en mi README.
-
-## ¿Por qué me enfoco en la experiencia de usuario?
-Porque no hay nada peor que lidiar con un software que parece hecho para hacernos sufrir. Me gusta pensar, desde el primer boceto, en cómo la gente realmente va a usar la aplicación. Si el resultado final no te hace sentir como en casa, es que algo se hizo mal.
-
-## ¿Cómo trabajo?
-1. **Curiosidad al máximo**: Lo cuestiono todo. Incluso la receta de la tortilla de patatas, aunque en la tradición siempre hay sabiduría.
-2. **Constancia y aprendizaje continuo**: Cada proyecto es una oportunidad de explorar algo nuevo. Mi lema: “Hoy sé más que ayer, y mañana más que hoy (si no me distraigo con memes).”
-3. **Detalles, detalles, detalles**: Puede que no aparezca en mi CV con letras de neón, pero la obsesión por el buen diseño y la buena práctica de desarrollo me corre por las venas.
-
-## Un poco de humor (porque el código sin humor es aburrido)
-> “Soy de esas personas que, cuando descubre que algo se puede hacer, se lanza sin paracaídas. Pregunto, investigo, rompo, reparo… y luego vuelvo a romper (solo para estar segura).”
-
-## ¿Qué encontrarás en mi GitHub?
-- Proyectos que me ayudan a aprender algo nuevo (y a veces a desaprender cosas obsoletas).
-- Ideas locas probadas con TypeScript, React, .NET, SQL y cualquier tecnología que me llame la atención. (Estoy en ello)
-- Un esfuerzo constante por implementar buenas prácticas y un código limpio, aunque sea un caos en mis primeras pruebas.
-
-## ¿Por qué deberías interesarte?
-Porque apuesto por la lógica, la claridad y el uso práctico de la tecnología. No me interesa “hacer más y más”; prefiero **hacerlo mejor**. Y sí, también me gusta llevar la experiencia de usuario a un nivel que no deje a nadie con ganas de lanzar el teclado por la ventana.
+*Even if my résumé doesn’t scream “Designer by birth,” trust me—my radar for awful user experiences is always on.*
 
 ---
 
-> **Gracias por pasarte por mi perfil** 🤍  
-> [LinkedIn - María Bratash](https://www.linkedin.com/in/bratash-maria/)
+## Who am I?
+- A web developer currently working in **Spain**, sharpening my skill set every single day.  
+- A professional with an unconventional background that taught me how to adapt fast, understand even faster, and deliver meaningful results.  
+- Yes, I come from the **UX/UI** world, but if you look at my CV you might say, “Really? Where does it say so?” Well, right here, in my README.
 
-Si llegaste hasta aquí, quizá te intrigó algo.  
-Explora mis repos y, si te apetece, ¡conversemos!
+## Why do I focus on user experience?
+Because there’s nothing worse than software seemingly built to make us suffer. From the very first sketch, I think about how people will *actually* use the application. If the final result doesn’t make you feel at home, something went wrong.
+
+## How do I work?
+1. **Maximum Curiosity** – I question everything. Even the recipe for a proper Spanish tortilla (though tradition often hides wisdom).  
+2. **Consistency & Continuous Learning** – Every project is a chance to explore something new. My motto:  
+   *“Today I know more than yesterday, and tomorrow more than today (unless memes distract me).”*  
+3. **Details, Details, Details** – It may not appear in bold neon letters on my CV, but a passion for good design and clean development runs through my veins.
+
+## A touch of humor (because code without humor is boring)
+> *I’m one of those people who, when discovering something is possible, jumps in without a parachute. I ask, investigate, break, fix… then break again (just to be sure).*  
+
+*(And yes, I’m a **woman**—got to say it loud & proud.)*
+
+## What will you find on my GitHub?
+- Projects that help me learn something new (and occasionally unlearn the obsolete).  
+- Crazy ideas tested with **TypeScript, React, .NET, SQL**—any tech that catches my eye. *(Work in progress!)*  
+- A constant effort to implement best practices and keep the code clean, even if my first drafts look like beautiful chaos.
+
+## Why should you care?
+Because I bet on **logic, clarity,** and the *practical* use of technology. I’m not interested in “doing more and more”; I prefer **doing it better**. And yes, I love taking user experience to a level that leaves no one itching to throw their keyboard out the window.
+
+---
+
+> **Thanks for stopping by my profile** 🤍  
+> 🔗 [LinkedIn – María Bratash](https://www.linkedin.com/in/bratash-maria/)
+
+If you’ve made it this far, something must have sparked your curiosity.  
+Dive into my repos, and if you feel like it—**let’s talk!**
 
 ---
