@@ -34,8 +34,8 @@ Now I do the same — but with code.
 ---
 
 ## 🛠️ Tech Stack  
-**Currently training and growing with these tools — one bug, one feature, and one “aha!” moment at a time.**  
-*From layouts to logic, I'm learning to build things that work well, look polished, and feel right to use.*
+**Currently training and growing with these tools — learning hands-on through code, errors, fixes,  
+and small wins that stack up — breaking things (on purpose) and getting sharper every day.**
 
 <div align="center">
 
@@ -53,9 +53,6 @@ Now I do the same — but with code.
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
 </div>
 
