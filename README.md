@@ -24,6 +24,7 @@ Now I do the same — but with code.
 ---
 
 🔗 [LinkedIn – María Bratash](https://www.linkedin.com/in/bratash-maria/)  
+🌐 [Portfolio – merybr.github.io/personal-website](https://merybr.github.io/personal-website/)  
 🤍 Thanks for stopping by. If something catches your eye, let’s talk.
 
 ---
