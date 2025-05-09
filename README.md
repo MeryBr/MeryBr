@@ -70,3 +70,13 @@ I'm enrolled in an intensive 11-month **Frontend Master at Lemoncode**, focused 
 
 Built around agile methodology, frequent code reviews, and Git-based collaboration.  
 Because theory is nice — but practice is what makes it stick.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeryBr&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryBr&layout=compact&theme=react" />
+</div>
+
