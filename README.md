@@ -2,14 +2,14 @@
 
 I'm a web developer with a sharp eye for detail and a healthy obsession with user experience.  
 Before writing code, I spent years helping people and solving real-life problems.  
-Now I do the same — but with code.
+Now I do the same but with code.
 
 ---
 
 ## What drives me?
 
 - **User experience**: everything should be intuitive, visually appealing, and easy to use.  
-- **Details matter**: if something’s off — visually, functionally, technically — I catch it.  
+- **Details matter**: if something’s off visually, functionally, technically — I catch it.  
 - **Quality first**: I don’t let things slide. If it can be improved, I improve it.  
 - **Purpose-driven work**: I’m not here to “just build” — I’m here to make things **make sense**.
 
@@ -29,7 +29,7 @@ Now I do the same — but with code.
 
 ---
 
-> *I’m a perfectionist — but only where it matters:  
+> *I’m a perfectionist but only where it matters:  
 > in the details others overlook, where real UX lives and users feel the difference.*
 
 ---
@@ -70,7 +70,7 @@ I'm enrolled in an intensive 11-month **Frontend Master at Lemoncode**, focused 
 - **Cloud deployment (Azure, AWS, Render)**
 
 Built around agile methodology, frequent code reviews, and Git-based collaboration.  
-Because theory is nice — but practice is what makes it stick.
+Because theory is nice but practice is what makes it stick.
 
 ---
 
